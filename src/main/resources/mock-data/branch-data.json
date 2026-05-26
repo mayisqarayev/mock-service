@@ -1,0 +1,1220 @@
+[
+  {
+    "branchId": "BR-001",
+    "branchName": "Bakıxanov filialı",
+    "managerUserId": "11637",
+    "active": true,
+    "region": "Bakıxanov qəsəbəsi"
+  },
+  {
+    "branchId": "BR-002",
+    "branchName": "Sumqayıt filialı",
+    "managerUserId": "11919",
+    "active": true,
+    "region": "Sumqayıt şəhəri"
+  },
+  {
+    "branchId": "BR-003",
+    "branchName": "Ağdam filialı",
+    "managerUserId": "10835",
+    "active": false,
+    "region": "Ağdam rayonu"
+  },
+  {
+    "branchId": "BR-004",
+    "branchName": "Zaqatala filialı",
+    "managerUserId": "95004",
+    "active": true,
+    "region": "Zaqatala şəhəri"
+  },
+  {
+    "branchId": "BR-005",
+    "branchName": "Gənclik Mall filialı",
+    "managerUserId": "95005",
+    "active": true,
+    "region": "Bakı şəh."
+  },
+  {
+    "branchId": "BR-006",
+    "branchName": "Sabunçu filialı",
+    "managerUserId": "95006",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-007",
+    "branchName": "Qubadlı filialı",
+    "managerUserId": "95007",
+    "active": true,
+    "region": "Sumqayıt şəhəri"
+  },
+  {
+    "branchId": "BR-008",
+    "branchName": "Gəncə filialı",
+    "managerUserId": "95008",
+    "active": true,
+    "region": "Gəncə şəhəri"
+  },
+  {
+    "branchId": "BR-009",
+    "branchName": "Şəmkir filialı",
+    "managerUserId": "95009",
+    "active": true,
+    "region": "Şəmkir şəhəri"
+  },
+  {
+    "branchId": "BR-010",
+    "branchName": "Salyan filialı",
+    "managerUserId": "95010",
+    "active": true,
+    "region": "Salyan şəhəri"
+  },
+  {
+    "branchId": "BR-011",
+    "branchName": "52 saylı Notariat şöbəsi",
+    "managerUserId": "95011",
+    "active": true,
+    "region": "Bakı şəh"
+  },
+  {
+    "branchId": "BR-012",
+    "branchName": "Sabirabad filialı",
+    "managerUserId": "95012",
+    "active": true,
+    "region": "Sabirabad şəhəri"
+  },
+  {
+    "branchId": "BR-013",
+    "branchName": "Bakı limanı şöbəsi",
+    "managerUserId": "95013",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-014",
+    "branchName": "Şirvan şəhər filialı",
+    "managerUserId": "95014",
+    "active": true,
+    "region": "Şirvan şəhəri"
+  },
+  {
+    "branchId": "BR-015",
+    "branchName": "Bərdə filialı",
+    "managerUserId": "95015",
+    "active": true,
+    "region": "Bərdə şəhəri"
+  },
+  {
+    "branchId": "BR-016",
+    "branchName": "8-ci mikrorayon filialı",
+    "managerUserId": "95016",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-017",
+    "branchName": "Lənkəran şəhər filialı",
+    "managerUserId": "95017",
+    "active": true,
+    "region": "Lənkəran şəhəri"
+  },
+  {
+    "branchId": "BR-018",
+    "branchName": "Buzovna şöbəsi",
+    "managerUserId": "95018",
+    "active": true,
+    "region": ""
+  },
+  {
+    "branchId": "BR-019",
+    "branchName": "Babək filialı",
+    "managerUserId": "95019",
+    "active": true,
+    "region": "Naxçıvan MR"
+  },
+  {
+    "branchId": "BR-020",
+    "branchName": "Fikrət Əmirov 24 (2 saylı ASAN Kommunal)",
+    "managerUserId": "95020",
+    "active": true,
+    "region": ""
+  },
+  {
+    "branchId": "BR-021",
+    "branchName": "Beyləqan filialı",
+    "managerUserId": "95021",
+    "active": true,
+    "region": "Beyləqan şəhəri"
+  },
+  {
+    "branchId": "BR-022",
+    "branchName": "Qəbələ filialı",
+    "managerUserId": "95022",
+    "active": true,
+    "region": "Qəbələ ray"
+  },
+  {
+    "branchId": "BR-023",
+    "branchName": "Biləsuvar filialı",
+    "managerUserId": "95023",
+    "active": true,
+    "region": "Biləsuvar şəhəri"
+  },
+  {
+    "branchId": "BR-024",
+    "branchName": "4 saylı Bakı Asan filialı",
+    "managerUserId": "95024",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-025",
+    "branchName": "Goranboy filialı",
+    "managerUserId": "95025",
+    "active": true,
+    "region": "Goranboy şəhəri"
+  },
+  {
+    "branchId": "BR-026",
+    "branchName": "Nəsimi filialı",
+    "managerUserId": "95026",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-027",
+    "branchName": "Səbail filialı",
+    "managerUserId": "95027",
+    "active": true,
+    "region": "Səbail rayonu"
+  },
+  {
+    "branchId": "BR-028",
+    "branchName": "Quba filialı",
+    "managerUserId": "95028",
+    "active": true,
+    "region": "Quba şəhəri"
+  },
+  {
+    "branchId": "BR-029",
+    "branchName": "Xaçmaz filialı",
+    "managerUserId": "95029",
+    "active": true,
+    "region": "Xaçmaz şəhəri"
+  },
+  {
+    "branchId": "BR-030",
+    "branchName": "Cəfər Cabbarlı filialı",
+    "managerUserId": "95030",
+    "active": true,
+    "region": "Yasamal rayonu"
+  },
+  {
+    "branchId": "BR-031",
+    "branchName": "Mərkəz filialı",
+    "managerUserId": "95031",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-032",
+    "branchName": "Ağdaş filialı",
+    "managerUserId": "95032",
+    "active": true,
+    "region": "Аğdаş şəhəri"
+  },
+  {
+    "branchId": "BR-033",
+    "branchName": "Ağstafa filialı",
+    "managerUserId": "95033",
+    "active": true,
+    "region": "Аğstаfа şəhəri"
+  },
+  {
+    "branchId": "BR-034",
+    "branchName": "Astara filialı",
+    "managerUserId": "95034",
+    "active": true,
+    "region": "Astara şəhəri"
+  },
+  {
+    "branchId": "BR-035",
+    "branchName": "Şəki filialı",
+    "managerUserId": "95035",
+    "active": true,
+    "region": "Şəki şəhəri"
+  },
+  {
+    "branchId": "BR-036",
+    "branchName": "İmişli filialı",
+    "managerUserId": "95036",
+    "active": true,
+    "region": "İmişli şəhəri"
+  },
+  {
+    "branchId": "BR-037",
+    "branchName": "Nizami filialı",
+    "managerUserId": "95037",
+    "active": true,
+    "region": "Gəncə şəhəri"
+  },
+  {
+    "branchId": "BR-038",
+    "branchName": "Lənkəran şöbəsi",
+    "managerUserId": "95038",
+    "active": true,
+    "region": "Lənkəran rayonu"
+  },
+  {
+    "branchId": "BR-039",
+    "branchName": "Yevlax filialı",
+    "managerUserId": "95039",
+    "active": true,
+    "region": "Yevlax şəhəri"
+  },
+  {
+    "branchId": "BR-040",
+    "branchName": "Şərur filialı",
+    "managerUserId": "95040",
+    "active": true,
+    "region": "Naxçıvan MR"
+  },
+  {
+    "branchId": "BR-041",
+    "branchName": "Culfa filialı",
+    "managerUserId": "95041",
+    "active": true,
+    "region": "Naxçıvan MR"
+  },
+  {
+    "branchId": "BR-042",
+    "branchName": "Kəpəz filialı",
+    "managerUserId": "95042",
+    "active": true,
+    "region": "Gəncə şəhəri"
+  },
+  {
+    "branchId": "BR-043",
+    "branchName": "Nərimanov filialı",
+    "managerUserId": "95043",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-044",
+    "branchName": "Azadlıq filialı",
+    "managerUserId": "95044",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-045",
+    "branchName": "28 Mall Birbank Rəqəmsal Mərkəz",
+    "managerUserId": "95045",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-046",
+    "branchName": "Ordubad filialı",
+    "managerUserId": "95046",
+    "active": true,
+    "region": "Ordubad rayonu"
+  },
+  {
+    "branchId": "BR-047",
+    "branchName": "Tovuz filialı",
+    "managerUserId": "95047",
+    "active": true,
+    "region": "Tovuz şəhəri"
+  },
+  {
+    "branchId": "BR-048",
+    "branchName": "Şahbuz filialı",
+    "managerUserId": "95048",
+    "active": true,
+    "region": "Şahbuz şəhəri"
+  },
+  {
+    "branchId": "BR-049",
+    "branchName": "İnşaatçılar filialı",
+    "managerUserId": "95049",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-050",
+    "branchName": "Naxçıvan filialı",
+    "managerUserId": "95050",
+    "active": true,
+    "region": "Naxçıvan şəhəri"
+  },
+  {
+    "branchId": "BR-051",
+    "branchName": "Göyçay filialı",
+    "managerUserId": "95051",
+    "active": true,
+    "region": "Göyçay rayonu"
+  },
+  {
+    "branchId": "BR-052",
+    "branchName": "Gənclik Mall Birbank Rəqəmsal Mərkəz",
+    "managerUserId": "95052",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-053",
+    "branchName": "Qazax filialı",
+    "managerUserId": "95053",
+    "active": true,
+    "region": "Qazax şəhəri"
+  },
+  {
+    "branchId": "BR-054",
+    "branchName": "Tərtər filialı",
+    "managerUserId": "95054",
+    "active": true,
+    "region": "Tərtər şəhəri"
+  },
+  {
+    "branchId": "BR-055",
+    "branchName": "İmişli şöbəsi",
+    "managerUserId": "95055",
+    "active": true,
+    "region": "İmişli şəhəri"
+  },
+  {
+    "branchId": "BR-056",
+    "branchName": "Sədərək filialı",
+    "managerUserId": "95056",
+    "active": true,
+    "region": "Naxçıvan MR"
+  },
+  {
+    "branchId": "BR-057",
+    "branchName": "Zərdab filialı",
+    "managerUserId": "95057",
+    "active": true,
+    "region": "Zərdab şəhəri"
+  },
+  {
+    "branchId": "BR-058",
+    "branchName": "Qusar filialı",
+    "managerUserId": "95058",
+    "active": true,
+    "region": "Qusar şəhəri"
+  },
+  {
+    "branchId": "BR-059",
+    "branchName": "Naftalan şəhər filialı",
+    "managerUserId": "95059",
+    "active": true,
+    "region": "Naftalan şəhəri"
+  },
+  {
+    "branchId": "BR-060",
+    "branchName": "Nərimanov Birbank Rəqəmsal Mərkəz",
+    "managerUserId": "95060",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-061",
+    "branchName": "Kürdəmir filialı",
+    "managerUserId": "95061",
+    "active": true,
+    "region": "Kürdəmir şəhəri"
+  },
+  {
+    "branchId": "BR-062",
+    "branchName": "Şabran filialı",
+    "managerUserId": "95062",
+    "active": true,
+    "region": "Şabran şəhəri"
+  },
+  {
+    "branchId": "BR-063",
+    "branchName": "Dəniz Mall Birbank Rəqəmsal Mərkəz",
+    "managerUserId": "95063",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-064",
+    "branchName": "Saatlı filialı",
+    "managerUserId": "95064",
+    "active": true,
+    "region": "Saatlı şəhəri"
+  },
+  {
+    "branchId": "BR-065",
+    "branchName": "Cəlilabad filialı",
+    "managerUserId": "95065",
+    "active": true,
+    "region": "Cəlilabad şəhəri"
+  },
+  {
+    "branchId": "BR-066",
+    "branchName": "Birbank - Masallı filialı",
+    "managerUserId": "95066",
+    "active": true,
+    "region": "Masallı şəhəri"
+  },
+  {
+    "branchId": "BR-067",
+    "branchName": "Salyan şöbəsi",
+    "managerUserId": "95067",
+    "active": true,
+    "region": ""
+  },
+  {
+    "branchId": "BR-068",
+    "branchName": "Xankəndi filialı",
+    "managerUserId": "95068",
+    "active": true,
+    "region": ""
+  },
+  {
+    "branchId": "BR-069",
+    "branchName": "Hacıqabul filialı",
+    "managerUserId": "95069",
+    "active": true,
+    "region": "Hacıqabul şəhəri"
+  },
+  {
+    "branchId": "BR-070",
+    "branchName": "Xırdalan filialı",
+    "managerUserId": "95070",
+    "active": true,
+    "region": "Xırdalan şəhəri"
+  },
+  {
+    "branchId": "BR-071",
+    "branchName": "Neftçala filialı",
+    "managerUserId": "95071",
+    "active": true,
+    "region": "Neftçala şəhəri"
+  },
+  {
+    "branchId": "BR-072",
+    "branchName": "28 Mall filialı",
+    "managerUserId": "95072",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-073",
+    "branchName": "Birbank - Zəfər filialı",
+    "managerUserId": "95073",
+    "active": true,
+    "region": "AZ1025"
+  },
+  {
+    "branchId": "BR-074",
+    "branchName": "Oğuz filialı",
+    "managerUserId": "95074",
+    "active": true,
+    "region": "Oğuz şəhəri"
+  },
+  {
+    "branchId": "BR-075",
+    "branchName": "Bakı 2 saylı Notariat şöbəsi",
+    "managerUserId": "95075",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-076",
+    "branchName": "Şamaxı filialı",
+    "managerUserId": "95076",
+    "active": true,
+    "region": "Şamaxı şəhəri"
+  },
+  {
+    "branchId": "BR-077",
+    "branchName": "Gədəbəy filialı",
+    "managerUserId": "95077",
+    "active": true,
+    "region": "Gədəbəy şəhəri"
+  },
+  {
+    "branchId": "BR-078",
+    "branchName": "Port Baku filialı",
+    "managerUserId": "95078",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-079",
+    "branchName": "Göygöl filialı",
+    "managerUserId": "95079",
+    "active": true,
+    "region": "Göygöl şəhəri"
+  },
+  {
+    "branchId": "BR-080",
+    "branchName": "Balakən filialı",
+    "managerUserId": "95080",
+    "active": true,
+    "region": "Balakən şəhəri"
+  },
+  {
+    "branchId": "BR-081",
+    "branchName": "21 saylı Notariat şöbəsi",
+    "managerUserId": "95081",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-082",
+    "branchName": "Xaçmaz Notariat şöbəsi",
+    "managerUserId": "95082",
+    "active": true,
+    "region": "Xaçmaz şəhəri"
+  },
+  {
+    "branchId": "BR-083",
+    "branchName": "Siyəzən filialı",
+    "managerUserId": "95083",
+    "active": true,
+    "region": "Siyəzən şəhəri"
+  },
+  {
+    "branchId": "BR-084",
+    "branchName": "13 saylı Notariat şöbəsi",
+    "managerUserId": "95084",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-085",
+    "branchName": "Lerik filialı",
+    "managerUserId": "95085",
+    "active": true,
+    "region": "Lerik şəhəri"
+  },
+  {
+    "branchId": "BR-086",
+    "branchName": "Gəncə Mall Birbank Rəqəmsal Mərkəz",
+    "managerUserId": "95086",
+    "active": true,
+    "region": "Heydər Əliyev pr. 433"
+  },
+  {
+    "branchId": "BR-087",
+    "branchName": "22 saylı Notariat şöbəsi",
+    "managerUserId": "95087",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-088",
+    "branchName": "23 saylı Notariat şöbəsi",
+    "managerUserId": "95088",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-089",
+    "branchName": "4 saylı Notariat şöbəsi",
+    "managerUserId": "95089",
+    "active": true,
+    "region": "Sumqayıt şəhəri"
+  },
+  {
+    "branchId": "BR-090",
+    "branchName": "Qax filialı",
+    "managerUserId": "95090",
+    "active": true,
+    "region": "Qax şəhəri"
+  },
+  {
+    "branchId": "BR-091",
+    "branchName": "Yardımlı filialı",
+    "managerUserId": "95091",
+    "active": true,
+    "region": "Yardımlı şəhəri"
+  },
+  {
+    "branchId": "BR-092",
+    "branchName": "Ucar rayon filialı",
+    "managerUserId": "95092",
+    "active": true,
+    "region": "Ucar şəhəri"
+  },
+  {
+    "branchId": "BR-093",
+    "branchName": "Baş Ofis",
+    "managerUserId": "95093",
+    "active": true,
+    "region": ""
+  },
+  {
+    "branchId": "BR-094",
+    "branchName": "İsmayıllı filialı",
+    "managerUserId": "95094",
+    "active": true,
+    "region": "İsmayıllı şəhəri"
+  },
+  {
+    "branchId": "BR-095",
+    "branchName": "Qobustan filialı",
+    "managerUserId": "95095",
+    "active": true,
+    "region": "Qobustan şəhəri"
+  },
+  {
+    "branchId": "BR-096",
+    "branchName": "Maştağa Birbank Rəqəmsal Mərkəz",
+    "managerUserId": "95096",
+    "active": true,
+    "region": ""
+  },
+  {
+    "branchId": "BR-097",
+    "branchName": "Crescent Mall Birbank Rəqəmsal Mərkəz",
+    "managerUserId": "95097",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-098",
+    "branchName": "Daşkəsən filialı",
+    "managerUserId": "95098",
+    "active": true,
+    "region": "Daşkəsən şəhəri"
+  },
+  {
+    "branchId": "BR-099",
+    "branchName": "Binə Birbank Rəqəmsal Mərkəz",
+    "managerUserId": "95099",
+    "active": true,
+    "region": "Binə qəsəbəsi Hicran Hasılov ev 13"
+  },
+  {
+    "branchId": "BR-100",
+    "branchName": "Binəqədi Rəqəmsal Mərkəz",
+    "managerUserId": "95100",
+    "active": true,
+    "region": "Binəqədi qəsəbəsi"
+  },
+  {
+    "branchId": "BR-101",
+    "branchName": "Samux filialı",
+    "managerUserId": "95101",
+    "active": true,
+    "region": "Samux rayonu"
+  },
+  {
+    "branchId": "BR-102",
+    "branchName": "Yeni Günəşli Rəqəmsal Mərkəz",
+    "managerUserId": "95102",
+    "active": true,
+    "region": "Günəşli qəsəbəsi"
+  },
+  {
+    "branchId": "BR-103",
+    "branchName": "7 saylı Notariat şöbəsi",
+    "managerUserId": "95103",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-104",
+    "branchName": "Sumqayıt 3 saylı Notariat şöbəsi",
+    "managerUserId": "95104",
+    "active": true,
+    "region": "Sumqayıt şəhəri"
+  },
+  {
+    "branchId": "BR-105",
+    "branchName": "Sahil Birbank Rəqəmsal Mərkəz",
+    "managerUserId": "95105",
+    "active": true,
+    "region": "Qaradağ rayonu"
+  },
+  {
+    "branchId": "BR-106",
+    "branchName": "Kəngərli filialı",
+    "managerUserId": "95106",
+    "active": true,
+    "region": "Kəngərli rayonu"
+  },
+  {
+    "branchId": "BR-107",
+    "branchName": "Füzuli filialı",
+    "managerUserId": "95107",
+    "active": true,
+    "region": "Füzuli rayonu"
+  },
+  {
+    "branchId": "BR-108",
+    "branchName": "Cənub filialı",
+    "managerUserId": "95108",
+    "active": true,
+    "region": "Masallı şəhəri"
+  },
+  {
+    "branchId": "BR-109",
+    "branchName": "Şamaxı şöbəsi",
+    "managerUserId": "95109",
+    "active": true,
+    "region": "Şamaxı şəhəri"
+  },
+  {
+    "branchId": "BR-110",
+    "branchName": "Ağcabədi şöbəsi",
+    "managerUserId": "95110",
+    "active": true,
+    "region": "Ağcabədi rayonu"
+  },
+  {
+    "branchId": "BR-111",
+    "branchName": "Tovuz şöbəsi",
+    "managerUserId": "95111",
+    "active": true,
+    "region": "Tovuz şəhəri"
+  },
+  {
+    "branchId": "BR-112",
+    "branchName": "1 saylı Sumqayıt ASAN filialı",
+    "managerUserId": "95112",
+    "active": true,
+    "region": "Sumqayıt şəhəri"
+  },
+  {
+    "branchId": "BR-113",
+    "branchName": "Şimal filialı",
+    "managerUserId": "95113",
+    "active": true,
+    "region": "Quba şəh."
+  },
+  {
+    "branchId": "BR-114",
+    "branchName": "Mingəçevir şöbəsi",
+    "managerUserId": "95114",
+    "active": true,
+    "region": "Mingəçevir şəhəri"
+  },
+  {
+    "branchId": "BR-115",
+    "branchName": "Şəki şöbəsi",
+    "managerUserId": "95115",
+    "active": true,
+    "region": "Şəki şəhəri"
+  },
+  {
+    "branchId": "BR-116",
+    "branchName": "Kürdəmir şöbəsi",
+    "managerUserId": "95116",
+    "active": true,
+    "region": "Kürdəmir şəhəri"
+  },
+  {
+    "branchId": "BR-117",
+    "branchName": "Qəbələ şöbəsi",
+    "managerUserId": "95117",
+    "active": true,
+    "region": "Qəbələ rayonu"
+  },
+  {
+    "branchId": "BR-118",
+    "branchName": "Qərb filialı",
+    "managerUserId": "95118",
+    "active": true,
+    "region": "Gəncə şəhəri"
+  },
+  {
+    "branchId": "BR-119",
+    "branchName": "7 saylı Bakı ASAN filialı",
+    "managerUserId": "95119",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-120",
+    "branchName": "Balakən şöbəsi",
+    "managerUserId": "95120",
+    "active": true,
+    "region": "Balakən rayonu"
+  },
+  {
+    "branchId": "BR-121",
+    "branchName": "Logistika şöbəsi",
+    "managerUserId": "95121",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-122",
+    "branchName": "Qazax şöbəsi",
+    "managerUserId": "95122",
+    "active": true,
+    "region": "Qazax rayonu"
+  },
+  {
+    "branchId": "BR-123",
+    "branchName": "Zəngilan filialı",
+    "managerUserId": "95123",
+    "active": true,
+    "region": "Zəngilan rayonu"
+  },
+  {
+    "branchId": "BR-124",
+    "branchName": "г. Хачмаз, Бакинский проспект 2Е",
+    "managerUserId": "95124",
+    "active": true,
+    "region": ""
+  },
+  {
+    "branchId": "BR-125",
+    "branchName": "38 saylı Notariat Şöbə",
+    "managerUserId": "95125",
+    "active": true,
+    "region": "Bakı şəh."
+  },
+  {
+    "branchId": "BR-126",
+    "branchName": "Məhəmməd Hadi filialı",
+    "managerUserId": "95126",
+    "active": true,
+    "region": "Bakı şəh."
+  },
+  {
+    "branchId": "BR-127",
+    "branchName": "Hüseyn Cavid filialı",
+    "managerUserId": "95127",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-128",
+    "branchName": "Sədərək şöbəsi",
+    "managerUserId": "95128",
+    "active": true,
+    "region": ""
+  },
+  {
+    "branchId": "BR-129",
+    "branchName": "KOB şöbəsi",
+    "managerUserId": "95129",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-130",
+    "branchName": "Naxçıvan Gömrük şöbəsi",
+    "managerUserId": "95130",
+    "active": true,
+    "region": ""
+  },
+  {
+    "branchId": "BR-131",
+    "branchName": "Culfa şöbəsi",
+    "managerUserId": "95131",
+    "active": true,
+    "region": ""
+  },
+  {
+    "branchId": "BR-132",
+    "branchName": "Kəngərli şöbəsi",
+    "managerUserId": "95132",
+    "active": true,
+    "region": ""
+  },
+  {
+    "branchId": "BR-133",
+    "branchName": "Birbank - Fərhad Fərhadlı filialı",
+    "managerUserId": "95133",
+    "active": true,
+    "region": "Sumqayıt şəhəri"
+  },
+  {
+    "branchId": "BR-134",
+    "branchName": "Ağ şəhər KOB mərkəzi filialı",
+    "managerUserId": "95134",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-135",
+    "branchName": "16 saylı Notariat şöbəsi",
+    "managerUserId": "95135",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-136",
+    "branchName": "35 saylı Notariat şöbəsi",
+    "managerUserId": "95136",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-137",
+    "branchName": "Naxçıvan şöbəsi",
+    "managerUserId": "95137",
+    "active": true,
+    "region": "Naxçıvan şəhəri"
+  },
+  {
+    "branchId": "BR-138",
+    "branchName": "1 saylı Notariat şöbəsi",
+    "managerUserId": "95138",
+    "active": true,
+    "region": "Xırdalan şəhəri"
+  },
+  {
+    "branchId": "BR-139",
+    "branchName": "53 saylı Notariat şöbəsi",
+    "managerUserId": "95139",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-140",
+    "branchName": "51 saylı Notariat şöbəsi",
+    "managerUserId": "95140",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-141",
+    "branchName": "9 saylı Notariat şöbəsi",
+    "managerUserId": "95141",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-142",
+    "branchName": "54 saylı Notariat şöbəsi",
+    "managerUserId": "95142",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-143",
+    "branchName": "32 saylı Notariat şöbəsi",
+    "managerUserId": "95143",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-144",
+    "branchName": "19 saylı Notariat şöbəsi",
+    "managerUserId": "95144",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-145",
+    "branchName": "18 saylı Notariat şöbəsi",
+    "managerUserId": "95145",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-146",
+    "branchName": "Ağcabədi filialı",
+    "managerUserId": "95146",
+    "active": true,
+    "region": "Ağcabədi rayon"
+  },
+  {
+    "branchId": "BR-147",
+    "branchName": "Abşeron filialı",
+    "managerUserId": "95147",
+    "active": true,
+    "region": "Abşeron rayonu"
+  },
+  {
+    "branchId": "BR-148",
+    "branchName": "2 saylı Notariat şöbəsi",
+    "managerUserId": "95148",
+    "active": true,
+    "region": "Xırdalan şəhəri"
+  },
+  {
+    "branchId": "BR-149",
+    "branchName": "12 saylı Notariat şöbəsi",
+    "managerUserId": "95149",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-150",
+    "branchName": "14 saylı Notariat şöbəsi",
+    "managerUserId": "95150",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-151",
+    "branchName": "Sumqayit 1 saylı Notariat şöbəsi",
+    "managerUserId": "95151",
+    "active": true,
+    "region": "Sumqayıt şəhəri"
+  },
+  {
+    "branchId": "BR-152",
+    "branchName": "Bravo 3 filialı",
+    "managerUserId": "95152",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-153",
+    "branchName": "Masallı filialı",
+    "managerUserId": "95153",
+    "active": true,
+    "region": "Masallı şəhəri"
+  },
+  {
+    "branchId": "BR-154",
+    "branchName": "Ağsu filialı",
+    "managerUserId": "95154",
+    "active": true,
+    "region": "Ağsu şəhəri"
+  },
+  {
+    "branchId": "BR-155",
+    "branchName": "Ticarət filialı",
+    "managerUserId": "95155",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-156",
+    "branchName": "Laçın filialı",
+    "managerUserId": "95156",
+    "active": true,
+    "region": "Laçın şəhəri"
+  },
+  {
+    "branchId": "BR-157",
+    "branchName": "26 saylı Notariat şöbəsi",
+    "managerUserId": "95157",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-158",
+    "branchName": "Şuşa filialı",
+    "managerUserId": "95158",
+    "active": true,
+    "region": "Şuşa şəhəri"
+  },
+  {
+    "branchId": "BR-159",
+    "branchName": "Sahil filialı",
+    "managerUserId": "95159",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-160",
+    "branchName": "15 saylı Notariat şöbəsi",
+    "managerUserId": "95160",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-161",
+    "branchName": "Gənclik filialı",
+    "managerUserId": "95161",
+    "active": true,
+    "region": "Nərimanov rayonu"
+  },
+  {
+    "branchId": "BR-162",
+    "branchName": "Neftçilər filialı",
+    "managerUserId": "95162",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-163",
+    "branchName": "Suraxanı filialı",
+    "managerUserId": "95163",
+    "active": true,
+    "region": "Suraxanı rayonu"
+  },
+  {
+    "branchId": "BR-164",
+    "branchName": "Yasamal filialı",
+    "managerUserId": "95164",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-165",
+    "branchName": "Cəbrayıl filialı",
+    "managerUserId": "95165",
+    "active": true,
+    "region": "Cəbrayıl şəhəri"
+  },
+  {
+    "branchId": "BR-166",
+    "branchName": "Əhmədli filialı",
+    "managerUserId": "95166",
+    "active": true,
+    "region": "Xətai rayonu"
+  },
+  {
+    "branchId": "BR-167",
+    "branchName": "Qaradağ filialı",
+    "managerUserId": "95167",
+    "active": true,
+    "region": "Bаkı şəhəri"
+  },
+  {
+    "branchId": "BR-168",
+    "branchName": "Xalqlar Dostluğu filialı",
+    "managerUserId": "95168",
+    "active": true,
+    "region": "Nizami rayonu"
+  },
+  {
+    "branchId": "BR-169",
+    "branchName": "Bravo 2 filialı",
+    "managerUserId": "95169",
+    "active": true,
+    "region": "Bakı şəh."
+  },
+  {
+    "branchId": "BR-170",
+    "branchName": "Qara Qarayev filialı",
+    "managerUserId": "95170",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-171",
+    "branchName": "Həzi Aslanov filialı",
+    "managerUserId": "95171",
+    "active": true,
+    "region": "Xətai rayonu"
+  },
+  {
+    "branchId": "BR-172",
+    "branchName": "Xəzər filialı",
+    "managerUserId": "95172",
+    "active": true,
+    "region": "Xəzər rayonu"
+  },
+  {
+    "branchId": "BR-173",
+    "branchName": "Təbriz filialı",
+    "managerUserId": "95173",
+    "active": true,
+    "region": "Bakı şəhəri"
+  },
+  {
+    "branchId": "BR-174",
+    "branchName": "50 saylı Notariat şöbəsi",
+    "managerUserId": "95174",
+    "active": true,
+    "region": "Bakı şəhəri"
+  }
+]

@@ -1,0 +1,31 @@
+package com.external.mock_service.repository;
+
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.List;
+import org.springframework.core.io.Resource;
+import org.springframework.core.io.ResourceLoader;
+import org.springframework.stereotype.Component;
+
+@Component
+public class JsonDataLoader {
+
+	private final ObjectMapper objectMapper;
+	private final ResourceLoader resourceLoader;
+
+	public JsonDataLoader(ObjectMapper objectMapper, ResourceLoader resourceLoader) {
+		this.objectMapper = objectMapper;
+		this.resourceLoader = resourceLoader;
+	}
+
+	public <T> List<T> loadList(String location, TypeReference<List<T>> typeReference) {
+		Resource resource = resourceLoader.getResource(location);
+		try (InputStream inputStream = resource.getInputStream()) {
+			return objectMapper.readValue(inputStream, typeReference);
+		} catch (IOException exception) {
+			throw new IllegalStateException("Failed to load mock data from " + location, exception);
+		}
+	}
+}
