@@ -24,7 +24,8 @@ class MockControllerIntegrationTest {
 		mockMvc.perform(get("/mock/users/13724"))
 				.andExpect(status().isOk())
 				.andExpect(jsonPath("$.userId", is("13724")))
-				.andExpect(jsonPath("$.departmentName", is("Operator departamenti")));
+				.andExpect(jsonPath("$.departmentName", is("Operator departamenti")))
+				.andExpect(jsonPath("$.section", is("Fraud hallarının idarə edilməsi şöbəsi")));
 	}
 
 	@Test
@@ -56,7 +57,8 @@ class MockControllerIntegrationTest {
 		mockMvc.perform(get("/mock/branches/BR-001/manager"))
 				.andExpect(status().isOk())
 				.andExpect(jsonPath("$.branchId", is("BR-001")))
-				.andExpect(jsonPath("$.managerUserId", is("11637")));
+				.andExpect(jsonPath("$.manager.userId", is("11637")))
+				.andExpect(jsonPath("$.manager.section", is("Təhlükəsizlik sistemləri şöbəsi")));
 	}
 
 	@Test
