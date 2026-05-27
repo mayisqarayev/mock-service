@@ -6,6 +6,7 @@
     "email": "abbasova.arzu.13724@mock.capitalbank.local",
     "departmentId": "OPS-001",
     "departmentName": "Operator departamenti",
+    "section": "Fraud hallarının idarə edilməsi şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -16,6 +17,7 @@
     "email": "abdullayev.ariz.12659@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Mühafizə-rejim və əməyin təhlükəsizliyi şöbəsi",
     "active": false,
     "position": "Aparıcı mütəxəssis"
   },
@@ -26,6 +28,7 @@
     "email": "agayev.ruslan.16281@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Təhlükəsizlik sistemləri şöbəsi",
     "active": true,
     "position": "Baş mütəxəssis"
   },
@@ -36,6 +39,7 @@
     "email": "babayev.zaur.10882@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Terminal şəbəkəsinin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Baş mütəxəssis"
   },
@@ -46,6 +50,7 @@
     "email": "bagirov.yunis.11637@mock.capitalbank.local",
     "departmentId": "MGR-001",
     "departmentName": "Filial idarəetməsi 001",
+    "section": "Təhlükəsizlik sistemləri şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -56,6 +61,7 @@
     "email": "baxsiyeva.emine.13067@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Hüquq mühafizə orqanları ilə iş şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -66,6 +72,7 @@
     "email": "bayramov.firuz.13409@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Mühafizə-rejim və əməyin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Baş mütəxəssis"
   },
@@ -76,6 +83,7 @@
     "email": "bayramov.rehman.14015@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Mühafizə-rejim və əməyin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Mütəxəssis"
   },
@@ -86,6 +94,7 @@
     "email": "behbudov.elsen.11377@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Hüquq mühafizə orqanları ilə iş şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -96,6 +105,7 @@
     "email": "cabbarov.vusal.10515@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Mühafizə-rejim və əməyin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Baş mütəxəssis"
   },
@@ -106,6 +116,7 @@
     "email": "ceferli.gulnar.13635@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Fraud hallarının idarə edilməsi şöbəsi",
     "active": true,
     "position": "Mütəxəssis"
   },
@@ -116,6 +127,7 @@
     "email": "dibirov.tahir.13038@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Təhlükəsizlik sistemləri şöbəsi",
     "active": true,
     "position": "Baş mütəxəssis"
   },
@@ -126,6 +138,7 @@
     "email": "duniyev.sahin.15832@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Terminal şəbəkəsinin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -136,6 +149,7 @@
     "email": "efendiyev.ilham.10521@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Hüquq mühafizə orqanları ilə iş şöbəsi",
     "active": true,
     "position": "Baş mütəxəssis"
   },
@@ -146,6 +160,7 @@
     "email": "ehmedov.samir.10595@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Təhlükəsizlik sistemləri şöbəsi",
     "active": true,
     "position": "Baş mütəxəssis"
   },
@@ -156,6 +171,7 @@
     "email": "ekberli.nigar.11198@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Hüquq mühafizə orqanları ilə iş şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -166,6 +182,7 @@
     "email": "eliyev.kamran.13325@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Terminal şəbəkəsinin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Menecer"
   },
@@ -176,6 +193,7 @@
     "email": "ezimov.cavid.10417@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Hüquq mühafizə orqanları ilə iş şöbəsi",
     "active": true,
     "position": "Baş mütəxəssis"
   },
@@ -186,6 +204,7 @@
     "email": "ezizli.ibrahim.10932@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Təhlükəsizlik sistemləri şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -196,6 +215,7 @@
     "email": "hacili.azer.10220@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Hüquq mühafizə orqanları ilə iş şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -206,6 +226,7 @@
     "email": "haciyev.orxan.11433@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Terminal şəbəkəsinin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Menecer"
   },
@@ -216,6 +237,7 @@
     "email": "hemidzade.rehime.530020@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Fraud halları və rəqəmsal əməliyyatların araşdırılması şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -226,6 +248,7 @@
     "email": "huseynov.polad.11919@mock.capitalbank.local",
     "departmentId": "MGR-002",
     "departmentName": "Filial idarəetməsi 002",
+    "section": "Fraud halları və rəqəmsal əməliyyatların araşdırılması şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -236,6 +259,7 @@
     "email": "huseyn.zade.natiq.12338@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Terminal şəbəkəsinin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -246,6 +270,7 @@
     "email": "ibrahimli.kamran.12163@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Fraud halları və rəqəmsal əməliyyatların araşdırılması şöbəsi",
     "active": true,
     "position": "Baş mütəxəssis"
   },
@@ -256,6 +281,7 @@
     "email": "ibrahimov.samir.13088@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Təhlükəsizlik sistemləri şöbəsi",
     "active": true,
     "position": "Mütəxəssis"
   },
@@ -266,6 +292,7 @@
     "email": "isayev.qabil.170035@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Fraud halları və rəqəmsal əməliyyatların araşdırılması şöbəsi",
     "active": true,
     "position": "Menecer"
   },
@@ -276,6 +303,7 @@
     "email": "isgenderli.rustem.11219@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Fraud hallarının idarə edilməsi şöbəsi",
     "active": true,
     "position": "Şöbə müdiri"
   },
@@ -286,6 +314,7 @@
     "email": "ismayilov.elmar.14883@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Mühafizə-rejim və əməyin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -296,6 +325,7 @@
     "email": "ismayilov.uzeyir.12425@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Mühafizə-rejim və əməyin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -306,6 +336,7 @@
     "email": "ismayilzade.nurane.390020@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Hüquq mühafizə orqanları ilə iş şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -316,6 +347,7 @@
     "email": "israfilov.murad.14306@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Terminal şəbəkəsinin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -326,6 +358,7 @@
     "email": "kazimov.ferid.15876@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Mühafizə-rejim və əməyin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Mütəxəssis"
   },
@@ -336,6 +369,7 @@
     "email": "kerimov.kerim.16727@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Fraud halları və rəqəmsal əməliyyatların araşdırılması şöbəsi",
     "active": true,
     "position": "Mütəxəssis"
   },
@@ -346,6 +380,7 @@
     "email": "mehdiyev.rovsen.10696@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Təhlükəsizlik sistemləri şöbəsi",
     "active": true,
     "position": "Menecer"
   },
@@ -356,6 +391,7 @@
     "email": "memiyev.rehman.10538@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Təhlükəsizlik sistemləri şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -366,6 +402,7 @@
     "email": "memmedov.azer.11660@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Hüquq mühafizə orqanları ilə iş şöbəsi",
     "active": true,
     "position": "Baş mütəxəssis"
   },
@@ -376,6 +413,7 @@
     "email": "memmedov.elcin.10329@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Təhlükəsizlik sistemləri şöbəsi",
     "active": true,
     "position": "Menecer"
   },
@@ -386,6 +424,7 @@
     "email": "memmedov.orxan.11687@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Terminal şəbəkəsinin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -396,6 +435,7 @@
     "email": "memmedov.pervin.14567@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Təhlükəsizlik sistemləri şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -406,6 +446,7 @@
     "email": "memmedov.rufet.10095@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Hüquq mühafizə orqanları ilə iş şöbəsi",
     "active": true,
     "position": "Şöbə müdiri"
   },
@@ -416,6 +457,7 @@
     "email": "memmedova.nigar.400053@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Fraud halları və rəqəmsal əməliyyatların araşdırılması şöbəsi",
     "active": true,
     "position": "Mütəxəssis"
   },
@@ -426,6 +468,7 @@
     "email": "mirzezade.nahid.15850@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Təhlükəsizlik sistemləri şöbəsi",
     "active": true,
     "position": "Mütəxəssis"
   },
@@ -436,6 +479,7 @@
     "email": "muradli.refayil.10835@mock.capitalbank.local",
     "departmentId": "MGR-003",
     "departmentName": "Filial idarəetməsi 003",
+    "section": "Təhlükəsizlik sistemləri şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -446,6 +490,7 @@
     "email": "muradov.kamran.12139@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Mühafizə-rejim və əməyin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Menecer"
   },
@@ -456,6 +501,7 @@
     "email": "mustafayev.ceyhun.13107@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Fraud halları və rəqəmsal əməliyyatların araşdırılması şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis (Naxçıvan üzrə)"
   },
@@ -466,6 +512,7 @@
     "email": "osmanov.ceyhun.17210@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Mühafizə-rejim və əməyin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Mütəxəssis"
   },
@@ -476,6 +523,7 @@
     "email": "qasimov.emil.10791@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Rəhbərlik",
     "active": true,
     "position": "Direktor müavini"
   },
@@ -486,6 +534,7 @@
     "email": "quliyev.elxan.15656@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Təhlükəsizlik sistemləri şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -496,6 +545,7 @@
     "email": "quliyev.kamil.16119@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Təhlükəsizlik sistemləri şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -506,6 +556,7 @@
     "email": "quluzade.bayram.16628@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Təhlükəsizlik sistemləri şöbəsi",
     "active": true,
     "position": "Mütəxəssis"
   },
@@ -516,6 +567,7 @@
     "email": "rustemov.emil.17720@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Hüquq mühafizə orqanları ilə iş şöbəsi",
     "active": true,
     "position": "Baş mütəxəssis"
   },
@@ -526,6 +578,7 @@
     "email": "rzayev.behruz.10254@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Rəhbərlik",
     "active": true,
     "position": "Direktor"
   },
@@ -536,6 +589,7 @@
     "email": "seferov.resul.16063@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Fraud hallarının idarə edilməsi şöbəsi",
     "active": true,
     "position": "Mütəxəssis"
   },
@@ -546,6 +600,7 @@
     "email": "sefiyev.ferid.11244@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Mühafizə-rejim və əməyin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Şöbə müdiri"
   },
@@ -556,6 +611,7 @@
     "email": "sixmemmedov.anar.12239@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Terminal şəbəkəsinin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -566,6 +622,7 @@
     "email": "sofiyev.elcin.10425@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Terminal şəbəkəsinin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Şöbə müdiri"
   },
@@ -576,6 +633,7 @@
     "email": "suleymanov.nesib.190004@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Fraud halları və rəqəmsal əməliyyatların araşdırılması şöbəsi",
     "active": true,
     "position": "Şöbə müdiri"
   },
@@ -586,6 +644,7 @@
     "email": "talibli.mirqasim.700067@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Fraud halları və rəqəmsal əməliyyatların araşdırılması şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -596,6 +655,7 @@
     "email": "talibov.rovsen.17190@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Mühafizə-rejim və əməyin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Menecer"
   },
@@ -606,6 +666,7 @@
     "email": "veliyev.vuqar.400018@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Mühafizə-rejim və əməyin təhlükəsizliyi şöbəsi",
     "active": true,
     "position": "Baş mütəxəssis"
   },
@@ -616,6 +677,7 @@
     "email": "xudiyev.ilqar.15811@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Təhlükəsizlik sistemləri şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -626,6 +688,7 @@
     "email": "xxx.naim.400058@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Fraud halları və rəqəmsal əməliyyatların araşdırılması şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
   },
@@ -636,6 +699,7 @@
     "email": "yermolayev.mixail.11629@mock.capitalbank.local",
     "departmentId": "SEC-001",
     "departmentName": "Təhlükəsizlik departamenti",
+    "section": "Fraud hallarının idarə edilməsi şöbəsi",
     "active": true,
     "position": "Baş mütəxəssis"
   },
@@ -646,6 +710,7 @@
     "email": "memmedov.kamal.95004@mock.capitalbank.local",
     "departmentId": "MGR-004",
     "departmentName": "Filial idarəetməsi 004",
+    "section": "Zaqatala filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -656,6 +721,7 @@
     "email": "memmedov.rauf.95005@mock.capitalbank.local",
     "departmentId": "MGR-005",
     "departmentName": "Filial idarəetməsi 005",
+    "section": "Gənclik Mall filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -666,6 +732,7 @@
     "email": "memmedov.elvin.95006@mock.capitalbank.local",
     "departmentId": "MGR-006",
     "departmentName": "Filial idarəetməsi 006",
+    "section": "Sabunçu filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -676,6 +743,7 @@
     "email": "memmedov.orxan.95007@mock.capitalbank.local",
     "departmentId": "MGR-007",
     "departmentName": "Filial idarəetməsi 007",
+    "section": "Qubadlı filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -686,6 +754,7 @@
     "email": "memmedov.tural.95008@mock.capitalbank.local",
     "departmentId": "MGR-008",
     "departmentName": "Filial idarəetməsi 008",
+    "section": "Gəncə filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -696,6 +765,7 @@
     "email": "memmedov.samir.95009@mock.capitalbank.local",
     "departmentId": "MGR-009",
     "departmentName": "Filial idarəetməsi 009",
+    "section": "Şəmkir filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -706,6 +776,7 @@
     "email": "memmedov.nihat.95010@mock.capitalbank.local",
     "departmentId": "MGR-010",
     "departmentName": "Filial idarəetməsi 010",
+    "section": "Salyan filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -716,6 +787,7 @@
     "email": "memmedov.anar.95011@mock.capitalbank.local",
     "departmentId": "MGR-011",
     "departmentName": "Filial idarəetməsi 011",
+    "section": "52 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -726,6 +798,7 @@
     "email": "memmedov.emin.95012@mock.capitalbank.local",
     "departmentId": "MGR-012",
     "departmentName": "Filial idarəetməsi 012",
+    "section": "Sabirabad filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -736,6 +809,7 @@
     "email": "memmedov.ramil.95013@mock.capitalbank.local",
     "departmentId": "MGR-013",
     "departmentName": "Filial idarəetməsi 013",
+    "section": "Bakı limanı şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -746,6 +820,7 @@
     "email": "memmedov.vugar.95014@mock.capitalbank.local",
     "departmentId": "MGR-014",
     "departmentName": "Filial idarəetməsi 014",
+    "section": "Şirvan şəhər filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -756,6 +831,7 @@
     "email": "memmedov.murad.95015@mock.capitalbank.local",
     "departmentId": "MGR-015",
     "departmentName": "Filial idarəetməsi 015",
+    "section": "Bərdə filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -766,6 +842,7 @@
     "email": "memmedov.rashad.95016@mock.capitalbank.local",
     "departmentId": "MGR-016",
     "departmentName": "Filial idarəetməsi 016",
+    "section": "8-ci mikrorayon filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -776,6 +853,7 @@
     "email": "memmedov.farid.95017@mock.capitalbank.local",
     "departmentId": "MGR-017",
     "departmentName": "Filial idarəetməsi 017",
+    "section": "Lənkəran şəhər filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -786,6 +864,7 @@
     "email": "memmedov.azer.95018@mock.capitalbank.local",
     "departmentId": "MGR-018",
     "departmentName": "Filial idarəetməsi 018",
+    "section": "Buzovna şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -796,6 +875,7 @@
     "email": "memmedov.nurlan.95019@mock.capitalbank.local",
     "departmentId": "MGR-019",
     "departmentName": "Filial idarəetməsi 019",
+    "section": "Babək filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -806,6 +886,7 @@
     "email": "memmedov.eldar.95020@mock.capitalbank.local",
     "departmentId": "MGR-020",
     "departmentName": "Filial idarəetməsi 020",
+    "section": "Fikrət Əmirov 24 (2 saylı ASAN Kommunal)",
     "active": true,
     "position": "Müdir"
   },
@@ -816,6 +897,7 @@
     "email": "memmedov.cavid.95021@mock.capitalbank.local",
     "departmentId": "MGR-021",
     "departmentName": "Filial idarəetməsi 021",
+    "section": "Beyləqan filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -826,6 +908,7 @@
     "email": "memmedov.fuad.95022@mock.capitalbank.local",
     "departmentId": "MGR-022",
     "departmentName": "Filial idarəetməsi 022",
+    "section": "Qəbələ filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -836,6 +919,7 @@
     "email": "memmedov.ilgar.95023@mock.capitalbank.local",
     "departmentId": "MGR-023",
     "departmentName": "Filial idarəetməsi 023",
+    "section": "Biləsuvar filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -846,6 +930,7 @@
     "email": "eliyev.kamal.95024@mock.capitalbank.local",
     "departmentId": "MGR-024",
     "departmentName": "Filial idarəetməsi 024",
+    "section": "4 saylı Bakı Asan filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -856,6 +941,7 @@
     "email": "eliyev.rauf.95025@mock.capitalbank.local",
     "departmentId": "MGR-025",
     "departmentName": "Filial idarəetməsi 025",
+    "section": "Goranboy filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -866,6 +952,7 @@
     "email": "eliyev.elvin.95026@mock.capitalbank.local",
     "departmentId": "MGR-026",
     "departmentName": "Filial idarəetməsi 026",
+    "section": "Nəsimi filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -876,6 +963,7 @@
     "email": "eliyev.orxan.95027@mock.capitalbank.local",
     "departmentId": "MGR-027",
     "departmentName": "Filial idarəetməsi 027",
+    "section": "Səbail filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -886,6 +974,7 @@
     "email": "eliyev.tural.95028@mock.capitalbank.local",
     "departmentId": "MGR-028",
     "departmentName": "Filial idarəetməsi 028",
+    "section": "Quba filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -896,6 +985,7 @@
     "email": "eliyev.samir.95029@mock.capitalbank.local",
     "departmentId": "MGR-029",
     "departmentName": "Filial idarəetməsi 029",
+    "section": "Xaçmaz filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -906,6 +996,7 @@
     "email": "eliyev.nihat.95030@mock.capitalbank.local",
     "departmentId": "MGR-030",
     "departmentName": "Filial idarəetməsi 030",
+    "section": "Cəfər Cabbarlı filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -916,6 +1007,7 @@
     "email": "eliyev.anar.95031@mock.capitalbank.local",
     "departmentId": "MGR-031",
     "departmentName": "Filial idarəetməsi 031",
+    "section": "Mərkəz filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -926,6 +1018,7 @@
     "email": "eliyev.emin.95032@mock.capitalbank.local",
     "departmentId": "MGR-032",
     "departmentName": "Filial idarəetməsi 032",
+    "section": "Ağdaş filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -936,6 +1029,7 @@
     "email": "eliyev.ramil.95033@mock.capitalbank.local",
     "departmentId": "MGR-033",
     "departmentName": "Filial idarəetməsi 033",
+    "section": "Ağstafa filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -946,6 +1040,7 @@
     "email": "eliyev.vugar.95034@mock.capitalbank.local",
     "departmentId": "MGR-034",
     "departmentName": "Filial idarəetməsi 034",
+    "section": "Astara filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -956,6 +1051,7 @@
     "email": "eliyev.murad.95035@mock.capitalbank.local",
     "departmentId": "MGR-035",
     "departmentName": "Filial idarəetməsi 035",
+    "section": "Şəki filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -966,6 +1062,7 @@
     "email": "eliyev.rashad.95036@mock.capitalbank.local",
     "departmentId": "MGR-036",
     "departmentName": "Filial idarəetməsi 036",
+    "section": "İmişli filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -976,6 +1073,7 @@
     "email": "eliyev.farid.95037@mock.capitalbank.local",
     "departmentId": "MGR-037",
     "departmentName": "Filial idarəetməsi 037",
+    "section": "Nizami filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -986,6 +1084,7 @@
     "email": "eliyev.azer.95038@mock.capitalbank.local",
     "departmentId": "MGR-038",
     "departmentName": "Filial idarəetməsi 038",
+    "section": "Lənkəran şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -996,6 +1095,7 @@
     "email": "eliyev.nurlan.95039@mock.capitalbank.local",
     "departmentId": "MGR-039",
     "departmentName": "Filial idarəetməsi 039",
+    "section": "Yevlax filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1006,6 +1106,7 @@
     "email": "eliyev.eldar.95040@mock.capitalbank.local",
     "departmentId": "MGR-040",
     "departmentName": "Filial idarəetməsi 040",
+    "section": "Şərur filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1016,6 +1117,7 @@
     "email": "eliyev.cavid.95041@mock.capitalbank.local",
     "departmentId": "MGR-041",
     "departmentName": "Filial idarəetməsi 041",
+    "section": "Culfa filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1026,6 +1128,7 @@
     "email": "eliyev.fuad.95042@mock.capitalbank.local",
     "departmentId": "MGR-042",
     "departmentName": "Filial idarəetməsi 042",
+    "section": "Kəpəz filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1036,6 +1139,7 @@
     "email": "eliyev.ilgar.95043@mock.capitalbank.local",
     "departmentId": "MGR-043",
     "departmentName": "Filial idarəetməsi 043",
+    "section": "Nərimanov filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1046,6 +1150,7 @@
     "email": "huseynov.kamal.95044@mock.capitalbank.local",
     "departmentId": "MGR-044",
     "departmentName": "Filial idarəetməsi 044",
+    "section": "Azadlıq filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1056,6 +1161,7 @@
     "email": "huseynov.rauf.95045@mock.capitalbank.local",
     "departmentId": "MGR-045",
     "departmentName": "Filial idarəetməsi 045",
+    "section": "28 Mall Birbank Rəqəmsal Mərkəz",
     "active": true,
     "position": "Müdir"
   },
@@ -1066,6 +1172,7 @@
     "email": "huseynov.elvin.95046@mock.capitalbank.local",
     "departmentId": "MGR-046",
     "departmentName": "Filial idarəetməsi 046",
+    "section": "Ordubad filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1076,6 +1183,7 @@
     "email": "huseynov.orxan.95047@mock.capitalbank.local",
     "departmentId": "MGR-047",
     "departmentName": "Filial idarəetməsi 047",
+    "section": "Tovuz filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1086,6 +1194,7 @@
     "email": "huseynov.tural.95048@mock.capitalbank.local",
     "departmentId": "MGR-048",
     "departmentName": "Filial idarəetməsi 048",
+    "section": "Şahbuz filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1096,6 +1205,7 @@
     "email": "huseynov.samir.95049@mock.capitalbank.local",
     "departmentId": "MGR-049",
     "departmentName": "Filial idarəetməsi 049",
+    "section": "İnşaatçılar filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1106,6 +1216,7 @@
     "email": "huseynov.nihat.95050@mock.capitalbank.local",
     "departmentId": "MGR-050",
     "departmentName": "Filial idarəetməsi 050",
+    "section": "Naxçıvan filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1116,6 +1227,7 @@
     "email": "huseynov.anar.95051@mock.capitalbank.local",
     "departmentId": "MGR-051",
     "departmentName": "Filial idarəetməsi 051",
+    "section": "Göyçay filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1126,6 +1238,7 @@
     "email": "huseynov.emin.95052@mock.capitalbank.local",
     "departmentId": "MGR-052",
     "departmentName": "Filial idarəetməsi 052",
+    "section": "Gənclik Mall Birbank Rəqəmsal Mərkəz",
     "active": true,
     "position": "Müdir"
   },
@@ -1136,6 +1249,7 @@
     "email": "huseynov.ramil.95053@mock.capitalbank.local",
     "departmentId": "MGR-053",
     "departmentName": "Filial idarəetməsi 053",
+    "section": "Qazax filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1146,6 +1260,7 @@
     "email": "huseynov.vugar.95054@mock.capitalbank.local",
     "departmentId": "MGR-054",
     "departmentName": "Filial idarəetməsi 054",
+    "section": "Tərtər filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1156,6 +1271,7 @@
     "email": "huseynov.murad.95055@mock.capitalbank.local",
     "departmentId": "MGR-055",
     "departmentName": "Filial idarəetməsi 055",
+    "section": "İmişli şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1166,6 +1282,7 @@
     "email": "huseynov.rashad.95056@mock.capitalbank.local",
     "departmentId": "MGR-056",
     "departmentName": "Filial idarəetməsi 056",
+    "section": "Sədərək filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1176,6 +1293,7 @@
     "email": "huseynov.farid.95057@mock.capitalbank.local",
     "departmentId": "MGR-057",
     "departmentName": "Filial idarəetməsi 057",
+    "section": "Zərdab filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1186,6 +1304,7 @@
     "email": "huseynov.azer.95058@mock.capitalbank.local",
     "departmentId": "MGR-058",
     "departmentName": "Filial idarəetməsi 058",
+    "section": "Qusar filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1196,6 +1315,7 @@
     "email": "huseynov.nurlan.95059@mock.capitalbank.local",
     "departmentId": "MGR-059",
     "departmentName": "Filial idarəetməsi 059",
+    "section": "Naftalan şəhər filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1206,6 +1326,7 @@
     "email": "huseynov.eldar.95060@mock.capitalbank.local",
     "departmentId": "MGR-060",
     "departmentName": "Filial idarəetməsi 060",
+    "section": "Nərimanov Birbank Rəqəmsal Mərkəz",
     "active": true,
     "position": "Müdir"
   },
@@ -1216,6 +1337,7 @@
     "email": "huseynov.cavid.95061@mock.capitalbank.local",
     "departmentId": "MGR-061",
     "departmentName": "Filial idarəetməsi 061",
+    "section": "Kürdəmir filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1226,6 +1348,7 @@
     "email": "huseynov.fuad.95062@mock.capitalbank.local",
     "departmentId": "MGR-062",
     "departmentName": "Filial idarəetməsi 062",
+    "section": "Şabran filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1236,6 +1359,7 @@
     "email": "huseynov.ilgar.95063@mock.capitalbank.local",
     "departmentId": "MGR-063",
     "departmentName": "Filial idarəetməsi 063",
+    "section": "Dəniz Mall Birbank Rəqəmsal Mərkəz",
     "active": true,
     "position": "Müdir"
   },
@@ -1246,6 +1370,7 @@
     "email": "quliyev.kamal.95064@mock.capitalbank.local",
     "departmentId": "MGR-064",
     "departmentName": "Filial idarəetməsi 064",
+    "section": "Saatlı filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1256,6 +1381,7 @@
     "email": "quliyev.rauf.95065@mock.capitalbank.local",
     "departmentId": "MGR-065",
     "departmentName": "Filial idarəetməsi 065",
+    "section": "Cəlilabad filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1266,6 +1392,7 @@
     "email": "quliyev.elvin.95066@mock.capitalbank.local",
     "departmentId": "MGR-066",
     "departmentName": "Filial idarəetməsi 066",
+    "section": "Birbank - Masallı filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1276,6 +1403,7 @@
     "email": "quliyev.orxan.95067@mock.capitalbank.local",
     "departmentId": "MGR-067",
     "departmentName": "Filial idarəetməsi 067",
+    "section": "Salyan şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1286,6 +1414,7 @@
     "email": "quliyev.tural.95068@mock.capitalbank.local",
     "departmentId": "MGR-068",
     "departmentName": "Filial idarəetməsi 068",
+    "section": "Xankəndi filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1296,6 +1425,7 @@
     "email": "quliyev.samir.95069@mock.capitalbank.local",
     "departmentId": "MGR-069",
     "departmentName": "Filial idarəetməsi 069",
+    "section": "Hacıqabul filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1306,6 +1436,7 @@
     "email": "quliyev.nihat.95070@mock.capitalbank.local",
     "departmentId": "MGR-070",
     "departmentName": "Filial idarəetməsi 070",
+    "section": "Xırdalan filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1316,6 +1447,7 @@
     "email": "quliyev.anar.95071@mock.capitalbank.local",
     "departmentId": "MGR-071",
     "departmentName": "Filial idarəetməsi 071",
+    "section": "Neftçala filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1326,6 +1458,7 @@
     "email": "quliyev.emin.95072@mock.capitalbank.local",
     "departmentId": "MGR-072",
     "departmentName": "Filial idarəetməsi 072",
+    "section": "28 Mall filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1336,6 +1469,7 @@
     "email": "quliyev.ramil.95073@mock.capitalbank.local",
     "departmentId": "MGR-073",
     "departmentName": "Filial idarəetməsi 073",
+    "section": "Birbank - Zəfər filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1346,6 +1480,7 @@
     "email": "quliyev.vugar.95074@mock.capitalbank.local",
     "departmentId": "MGR-074",
     "departmentName": "Filial idarəetməsi 074",
+    "section": "Oğuz filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1356,6 +1491,7 @@
     "email": "quliyev.murad.95075@mock.capitalbank.local",
     "departmentId": "MGR-075",
     "departmentName": "Filial idarəetməsi 075",
+    "section": "Bakı 2 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1366,6 +1502,7 @@
     "email": "quliyev.rashad.95076@mock.capitalbank.local",
     "departmentId": "MGR-076",
     "departmentName": "Filial idarəetməsi 076",
+    "section": "Şamaxı filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1376,6 +1513,7 @@
     "email": "quliyev.farid.95077@mock.capitalbank.local",
     "departmentId": "MGR-077",
     "departmentName": "Filial idarəetməsi 077",
+    "section": "Gədəbəy filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1386,6 +1524,7 @@
     "email": "quliyev.azer.95078@mock.capitalbank.local",
     "departmentId": "MGR-078",
     "departmentName": "Filial idarəetməsi 078",
+    "section": "Port Baku filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1396,6 +1535,7 @@
     "email": "quliyev.nurlan.95079@mock.capitalbank.local",
     "departmentId": "MGR-079",
     "departmentName": "Filial idarəetməsi 079",
+    "section": "Göygöl filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1406,6 +1546,7 @@
     "email": "quliyev.eldar.95080@mock.capitalbank.local",
     "departmentId": "MGR-080",
     "departmentName": "Filial idarəetməsi 080",
+    "section": "Balakən filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1416,6 +1557,7 @@
     "email": "quliyev.cavid.95081@mock.capitalbank.local",
     "departmentId": "MGR-081",
     "departmentName": "Filial idarəetməsi 081",
+    "section": "21 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1426,6 +1568,7 @@
     "email": "quliyev.fuad.95082@mock.capitalbank.local",
     "departmentId": "MGR-082",
     "departmentName": "Filial idarəetməsi 082",
+    "section": "Xaçmaz Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1436,6 +1579,7 @@
     "email": "quliyev.ilgar.95083@mock.capitalbank.local",
     "departmentId": "MGR-083",
     "departmentName": "Filial idarəetməsi 083",
+    "section": "Siyəzən filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1446,6 +1590,7 @@
     "email": "rzayev.kamal.95084@mock.capitalbank.local",
     "departmentId": "MGR-084",
     "departmentName": "Filial idarəetməsi 084",
+    "section": "13 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1456,6 +1601,7 @@
     "email": "rzayev.rauf.95085@mock.capitalbank.local",
     "departmentId": "MGR-085",
     "departmentName": "Filial idarəetməsi 085",
+    "section": "Lerik filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1466,6 +1612,7 @@
     "email": "rzayev.elvin.95086@mock.capitalbank.local",
     "departmentId": "MGR-086",
     "departmentName": "Filial idarəetməsi 086",
+    "section": "Gəncə Mall Birbank Rəqəmsal Mərkəz",
     "active": true,
     "position": "Müdir"
   },
@@ -1476,6 +1623,7 @@
     "email": "rzayev.orxan.95087@mock.capitalbank.local",
     "departmentId": "MGR-087",
     "departmentName": "Filial idarəetməsi 087",
+    "section": "22 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1486,6 +1634,7 @@
     "email": "rzayev.tural.95088@mock.capitalbank.local",
     "departmentId": "MGR-088",
     "departmentName": "Filial idarəetməsi 088",
+    "section": "23 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1496,6 +1645,7 @@
     "email": "rzayev.samir.95089@mock.capitalbank.local",
     "departmentId": "MGR-089",
     "departmentName": "Filial idarəetməsi 089",
+    "section": "4 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1506,6 +1656,7 @@
     "email": "rzayev.nihat.95090@mock.capitalbank.local",
     "departmentId": "MGR-090",
     "departmentName": "Filial idarəetməsi 090",
+    "section": "Qax filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1516,6 +1667,7 @@
     "email": "rzayev.anar.95091@mock.capitalbank.local",
     "departmentId": "MGR-091",
     "departmentName": "Filial idarəetməsi 091",
+    "section": "Yardımlı filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1526,6 +1678,7 @@
     "email": "rzayev.emin.95092@mock.capitalbank.local",
     "departmentId": "MGR-092",
     "departmentName": "Filial idarəetməsi 092",
+    "section": "Ucar rayon filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1536,6 +1689,7 @@
     "email": "rzayev.ramil.95093@mock.capitalbank.local",
     "departmentId": "MGR-093",
     "departmentName": "Filial idarəetməsi 093",
+    "section": "Baş Ofis",
     "active": true,
     "position": "Müdir"
   },
@@ -1546,6 +1700,7 @@
     "email": "rzayev.vugar.95094@mock.capitalbank.local",
     "departmentId": "MGR-094",
     "departmentName": "Filial idarəetməsi 094",
+    "section": "İsmayıllı filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1556,6 +1711,7 @@
     "email": "rzayev.murad.95095@mock.capitalbank.local",
     "departmentId": "MGR-095",
     "departmentName": "Filial idarəetməsi 095",
+    "section": "Qobustan filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1566,6 +1722,7 @@
     "email": "rzayev.rashad.95096@mock.capitalbank.local",
     "departmentId": "MGR-096",
     "departmentName": "Filial idarəetməsi 096",
+    "section": "Maştağa Birbank Rəqəmsal Mərkəz",
     "active": true,
     "position": "Müdir"
   },
@@ -1576,6 +1733,7 @@
     "email": "rzayev.farid.95097@mock.capitalbank.local",
     "departmentId": "MGR-097",
     "departmentName": "Filial idarəetməsi 097",
+    "section": "Crescent Mall Birbank Rəqəmsal Mərkəz",
     "active": true,
     "position": "Müdir"
   },
@@ -1586,6 +1744,7 @@
     "email": "rzayev.azer.95098@mock.capitalbank.local",
     "departmentId": "MGR-098",
     "departmentName": "Filial idarəetməsi 098",
+    "section": "Daşkəsən filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1596,6 +1755,7 @@
     "email": "rzayev.nurlan.95099@mock.capitalbank.local",
     "departmentId": "MGR-099",
     "departmentName": "Filial idarəetməsi 099",
+    "section": "Binə Birbank Rəqəmsal Mərkəz",
     "active": true,
     "position": "Müdir"
   },
@@ -1606,6 +1766,7 @@
     "email": "rzayev.eldar.95100@mock.capitalbank.local",
     "departmentId": "MGR-100",
     "departmentName": "Filial idarəetməsi 100",
+    "section": "Binəqədi Rəqəmsal Mərkəz",
     "active": true,
     "position": "Müdir"
   },
@@ -1616,6 +1777,7 @@
     "email": "rzayev.cavid.95101@mock.capitalbank.local",
     "departmentId": "MGR-101",
     "departmentName": "Filial idarəetməsi 101",
+    "section": "Samux filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1626,6 +1788,7 @@
     "email": "rzayev.fuad.95102@mock.capitalbank.local",
     "departmentId": "MGR-102",
     "departmentName": "Filial idarəetməsi 102",
+    "section": "Yeni Günəşli Rəqəmsal Mərkəz",
     "active": true,
     "position": "Müdir"
   },
@@ -1636,6 +1799,7 @@
     "email": "rzayev.ilgar.95103@mock.capitalbank.local",
     "departmentId": "MGR-103",
     "departmentName": "Filial idarəetməsi 103",
+    "section": "7 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1646,6 +1810,7 @@
     "email": "kerimov.kamal.95104@mock.capitalbank.local",
     "departmentId": "MGR-104",
     "departmentName": "Filial idarəetməsi 104",
+    "section": "Sumqayıt 3 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1656,6 +1821,7 @@
     "email": "kerimov.rauf.95105@mock.capitalbank.local",
     "departmentId": "MGR-105",
     "departmentName": "Filial idarəetməsi 105",
+    "section": "Sahil Birbank Rəqəmsal Mərkəz",
     "active": true,
     "position": "Müdir"
   },
@@ -1666,6 +1832,7 @@
     "email": "kerimov.elvin.95106@mock.capitalbank.local",
     "departmentId": "MGR-106",
     "departmentName": "Filial idarəetməsi 106",
+    "section": "Kəngərli filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1676,6 +1843,7 @@
     "email": "kerimov.orxan.95107@mock.capitalbank.local",
     "departmentId": "MGR-107",
     "departmentName": "Filial idarəetməsi 107",
+    "section": "Füzuli filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1686,6 +1854,7 @@
     "email": "kerimov.tural.95108@mock.capitalbank.local",
     "departmentId": "MGR-108",
     "departmentName": "Filial idarəetməsi 108",
+    "section": "Cənub filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1696,6 +1865,7 @@
     "email": "kerimov.samir.95109@mock.capitalbank.local",
     "departmentId": "MGR-109",
     "departmentName": "Filial idarəetməsi 109",
+    "section": "Şamaxı şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1706,6 +1876,7 @@
     "email": "kerimov.nihat.95110@mock.capitalbank.local",
     "departmentId": "MGR-110",
     "departmentName": "Filial idarəetməsi 110",
+    "section": "Ağcabədi şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1716,6 +1887,7 @@
     "email": "kerimov.anar.95111@mock.capitalbank.local",
     "departmentId": "MGR-111",
     "departmentName": "Filial idarəetməsi 111",
+    "section": "Tovuz şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1726,6 +1898,7 @@
     "email": "kerimov.emin.95112@mock.capitalbank.local",
     "departmentId": "MGR-112",
     "departmentName": "Filial idarəetməsi 112",
+    "section": "1 saylı Sumqayıt ASAN filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1736,6 +1909,7 @@
     "email": "kerimov.ramil.95113@mock.capitalbank.local",
     "departmentId": "MGR-113",
     "departmentName": "Filial idarəetməsi 113",
+    "section": "Şimal filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1746,6 +1920,7 @@
     "email": "kerimov.vugar.95114@mock.capitalbank.local",
     "departmentId": "MGR-114",
     "departmentName": "Filial idarəetməsi 114",
+    "section": "Mingəçevir şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1756,6 +1931,7 @@
     "email": "kerimov.murad.95115@mock.capitalbank.local",
     "departmentId": "MGR-115",
     "departmentName": "Filial idarəetməsi 115",
+    "section": "Şəki şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1766,6 +1942,7 @@
     "email": "kerimov.rashad.95116@mock.capitalbank.local",
     "departmentId": "MGR-116",
     "departmentName": "Filial idarəetməsi 116",
+    "section": "Kürdəmir şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1776,6 +1953,7 @@
     "email": "kerimov.farid.95117@mock.capitalbank.local",
     "departmentId": "MGR-117",
     "departmentName": "Filial idarəetməsi 117",
+    "section": "Qəbələ şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1786,6 +1964,7 @@
     "email": "kerimov.azer.95118@mock.capitalbank.local",
     "departmentId": "MGR-118",
     "departmentName": "Filial idarəetməsi 118",
+    "section": "Qərb filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1796,6 +1975,7 @@
     "email": "kerimov.nurlan.95119@mock.capitalbank.local",
     "departmentId": "MGR-119",
     "departmentName": "Filial idarəetməsi 119",
+    "section": "7 saylı Bakı ASAN filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1806,6 +1986,7 @@
     "email": "kerimov.eldar.95120@mock.capitalbank.local",
     "departmentId": "MGR-120",
     "departmentName": "Filial idarəetməsi 120",
+    "section": "Balakən şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1816,6 +1997,7 @@
     "email": "kerimov.cavid.95121@mock.capitalbank.local",
     "departmentId": "MGR-121",
     "departmentName": "Filial idarəetməsi 121",
+    "section": "Logistika şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1826,6 +2008,7 @@
     "email": "kerimov.fuad.95122@mock.capitalbank.local",
     "departmentId": "MGR-122",
     "departmentName": "Filial idarəetməsi 122",
+    "section": "Qazax şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1836,6 +2019,7 @@
     "email": "kerimov.ilgar.95123@mock.capitalbank.local",
     "departmentId": "MGR-123",
     "departmentName": "Filial idarəetməsi 123",
+    "section": "Zəngilan filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1846,6 +2030,7 @@
     "email": "seferov.kamal.95124@mock.capitalbank.local",
     "departmentId": "MGR-124",
     "departmentName": "Filial idarəetməsi 124",
+    "section": "г. Хачмаз, Бакинский проспект 2Е",
     "active": true,
     "position": "Müdir"
   },
@@ -1856,6 +2041,7 @@
     "email": "seferov.rauf.95125@mock.capitalbank.local",
     "departmentId": "MGR-125",
     "departmentName": "Filial idarəetməsi 125",
+    "section": "38 saylı Notariat Şöbə",
     "active": true,
     "position": "Müdir"
   },
@@ -1866,6 +2052,7 @@
     "email": "seferov.elvin.95126@mock.capitalbank.local",
     "departmentId": "MGR-126",
     "departmentName": "Filial idarəetməsi 126",
+    "section": "Məhəmməd Hadi filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1876,6 +2063,7 @@
     "email": "seferov.orxan.95127@mock.capitalbank.local",
     "departmentId": "MGR-127",
     "departmentName": "Filial idarəetməsi 127",
+    "section": "Hüseyn Cavid filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1886,6 +2074,7 @@
     "email": "seferov.tural.95128@mock.capitalbank.local",
     "departmentId": "MGR-128",
     "departmentName": "Filial idarəetməsi 128",
+    "section": "Sədərək şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1896,6 +2085,7 @@
     "email": "seferov.samir.95129@mock.capitalbank.local",
     "departmentId": "MGR-129",
     "departmentName": "Filial idarəetməsi 129",
+    "section": "KOB şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1906,6 +2096,7 @@
     "email": "seferov.nihat.95130@mock.capitalbank.local",
     "departmentId": "MGR-130",
     "departmentName": "Filial idarəetməsi 130",
+    "section": "Naxçıvan Gömrük şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1916,6 +2107,7 @@
     "email": "seferov.anar.95131@mock.capitalbank.local",
     "departmentId": "MGR-131",
     "departmentName": "Filial idarəetməsi 131",
+    "section": "Culfa şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1926,6 +2118,7 @@
     "email": "seferov.emin.95132@mock.capitalbank.local",
     "departmentId": "MGR-132",
     "departmentName": "Filial idarəetməsi 132",
+    "section": "Kəngərli şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1936,6 +2129,7 @@
     "email": "seferov.ramil.95133@mock.capitalbank.local",
     "departmentId": "MGR-133",
     "departmentName": "Filial idarəetməsi 133",
+    "section": "Birbank - Fərhad Fərhadlı filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1946,6 +2140,7 @@
     "email": "seferov.vugar.95134@mock.capitalbank.local",
     "departmentId": "MGR-134",
     "departmentName": "Filial idarəetməsi 134",
+    "section": "Ağ şəhər KOB mərkəzi filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -1956,6 +2151,7 @@
     "email": "seferov.murad.95135@mock.capitalbank.local",
     "departmentId": "MGR-135",
     "departmentName": "Filial idarəetməsi 135",
+    "section": "16 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1966,6 +2162,7 @@
     "email": "seferov.rashad.95136@mock.capitalbank.local",
     "departmentId": "MGR-136",
     "departmentName": "Filial idarəetməsi 136",
+    "section": "35 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1976,6 +2173,7 @@
     "email": "seferov.farid.95137@mock.capitalbank.local",
     "departmentId": "MGR-137",
     "departmentName": "Filial idarəetməsi 137",
+    "section": "Naxçıvan şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1986,6 +2184,7 @@
     "email": "seferov.azer.95138@mock.capitalbank.local",
     "departmentId": "MGR-138",
     "departmentName": "Filial idarəetməsi 138",
+    "section": "1 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -1996,6 +2195,7 @@
     "email": "seferov.nurlan.95139@mock.capitalbank.local",
     "departmentId": "MGR-139",
     "departmentName": "Filial idarəetməsi 139",
+    "section": "53 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -2006,6 +2206,7 @@
     "email": "seferov.eldar.95140@mock.capitalbank.local",
     "departmentId": "MGR-140",
     "departmentName": "Filial idarəetməsi 140",
+    "section": "51 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -2016,6 +2217,7 @@
     "email": "seferov.cavid.95141@mock.capitalbank.local",
     "departmentId": "MGR-141",
     "departmentName": "Filial idarəetməsi 141",
+    "section": "9 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -2026,6 +2228,7 @@
     "email": "seferov.fuad.95142@mock.capitalbank.local",
     "departmentId": "MGR-142",
     "departmentName": "Filial idarəetməsi 142",
+    "section": "54 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -2036,6 +2239,7 @@
     "email": "seferov.ilgar.95143@mock.capitalbank.local",
     "departmentId": "MGR-143",
     "departmentName": "Filial idarəetməsi 143",
+    "section": "32 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -2046,6 +2250,7 @@
     "email": "ismayilov.kamal.95144@mock.capitalbank.local",
     "departmentId": "MGR-144",
     "departmentName": "Filial idarəetməsi 144",
+    "section": "19 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -2056,6 +2261,7 @@
     "email": "ismayilov.rauf.95145@mock.capitalbank.local",
     "departmentId": "MGR-145",
     "departmentName": "Filial idarəetməsi 145",
+    "section": "18 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -2066,6 +2272,7 @@
     "email": "ismayilov.elvin.95146@mock.capitalbank.local",
     "departmentId": "MGR-146",
     "departmentName": "Filial idarəetməsi 146",
+    "section": "Ağcabədi filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2076,6 +2283,7 @@
     "email": "ismayilov.orxan.95147@mock.capitalbank.local",
     "departmentId": "MGR-147",
     "departmentName": "Filial idarəetməsi 147",
+    "section": "Abşeron filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2086,6 +2294,7 @@
     "email": "ismayilov.tural.95148@mock.capitalbank.local",
     "departmentId": "MGR-148",
     "departmentName": "Filial idarəetməsi 148",
+    "section": "2 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -2096,6 +2305,7 @@
     "email": "ismayilov.samir.95149@mock.capitalbank.local",
     "departmentId": "MGR-149",
     "departmentName": "Filial idarəetməsi 149",
+    "section": "12 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -2106,6 +2316,7 @@
     "email": "ismayilov.nihat.95150@mock.capitalbank.local",
     "departmentId": "MGR-150",
     "departmentName": "Filial idarəetməsi 150",
+    "section": "14 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -2116,6 +2327,7 @@
     "email": "ismayilov.anar.95151@mock.capitalbank.local",
     "departmentId": "MGR-151",
     "departmentName": "Filial idarəetməsi 151",
+    "section": "Sumqayit 1 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -2126,6 +2338,7 @@
     "email": "ismayilov.emin.95152@mock.capitalbank.local",
     "departmentId": "MGR-152",
     "departmentName": "Filial idarəetməsi 152",
+    "section": "Bravo 3 filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2136,6 +2349,7 @@
     "email": "ismayilov.ramil.95153@mock.capitalbank.local",
     "departmentId": "MGR-153",
     "departmentName": "Filial idarəetməsi 153",
+    "section": "Masallı filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2146,6 +2360,7 @@
     "email": "ismayilov.vugar.95154@mock.capitalbank.local",
     "departmentId": "MGR-154",
     "departmentName": "Filial idarəetməsi 154",
+    "section": "Ağsu filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2156,6 +2371,7 @@
     "email": "ismayilov.murad.95155@mock.capitalbank.local",
     "departmentId": "MGR-155",
     "departmentName": "Filial idarəetməsi 155",
+    "section": "Ticarət filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2166,6 +2382,7 @@
     "email": "ismayilov.rashad.95156@mock.capitalbank.local",
     "departmentId": "MGR-156",
     "departmentName": "Filial idarəetməsi 156",
+    "section": "Laçın filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2176,6 +2393,7 @@
     "email": "ismayilov.farid.95157@mock.capitalbank.local",
     "departmentId": "MGR-157",
     "departmentName": "Filial idarəetməsi 157",
+    "section": "26 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -2186,6 +2404,7 @@
     "email": "ismayilov.azer.95158@mock.capitalbank.local",
     "departmentId": "MGR-158",
     "departmentName": "Filial idarəetməsi 158",
+    "section": "Şuşa filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2196,6 +2415,7 @@
     "email": "ismayilov.nurlan.95159@mock.capitalbank.local",
     "departmentId": "MGR-159",
     "departmentName": "Filial idarəetməsi 159",
+    "section": "Sahil filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2206,6 +2426,7 @@
     "email": "ismayilov.eldar.95160@mock.capitalbank.local",
     "departmentId": "MGR-160",
     "departmentName": "Filial idarəetməsi 160",
+    "section": "15 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   },
@@ -2216,6 +2437,7 @@
     "email": "ismayilov.cavid.95161@mock.capitalbank.local",
     "departmentId": "MGR-161",
     "departmentName": "Filial idarəetməsi 161",
+    "section": "Gənclik filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2226,6 +2448,7 @@
     "email": "ismayilov.fuad.95162@mock.capitalbank.local",
     "departmentId": "MGR-162",
     "departmentName": "Filial idarəetməsi 162",
+    "section": "Neftçilər filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2236,6 +2459,7 @@
     "email": "ismayilov.ilgar.95163@mock.capitalbank.local",
     "departmentId": "MGR-163",
     "departmentName": "Filial idarəetməsi 163",
+    "section": "Suraxanı filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2246,6 +2470,7 @@
     "email": "esedov.kamal.95164@mock.capitalbank.local",
     "departmentId": "MGR-164",
     "departmentName": "Filial idarəetməsi 164",
+    "section": "Yasamal filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2256,6 +2481,7 @@
     "email": "esedov.rauf.95165@mock.capitalbank.local",
     "departmentId": "MGR-165",
     "departmentName": "Filial idarəetməsi 165",
+    "section": "Cəbrayıl filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2266,6 +2492,7 @@
     "email": "esedov.elvin.95166@mock.capitalbank.local",
     "departmentId": "MGR-166",
     "departmentName": "Filial idarəetməsi 166",
+    "section": "Əhmədli filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2276,6 +2503,7 @@
     "email": "esedov.orxan.95167@mock.capitalbank.local",
     "departmentId": "MGR-167",
     "departmentName": "Filial idarəetməsi 167",
+    "section": "Qaradağ filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2286,6 +2514,7 @@
     "email": "esedov.tural.95168@mock.capitalbank.local",
     "departmentId": "MGR-168",
     "departmentName": "Filial idarəetməsi 168",
+    "section": "Xalqlar Dostluğu filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2296,6 +2525,7 @@
     "email": "esedov.samir.95169@mock.capitalbank.local",
     "departmentId": "MGR-169",
     "departmentName": "Filial idarəetməsi 169",
+    "section": "Bravo 2 filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2306,6 +2536,7 @@
     "email": "esedov.nihat.95170@mock.capitalbank.local",
     "departmentId": "MGR-170",
     "departmentName": "Filial idarəetməsi 170",
+    "section": "Qara Qarayev filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2316,6 +2547,7 @@
     "email": "esedov.anar.95171@mock.capitalbank.local",
     "departmentId": "MGR-171",
     "departmentName": "Filial idarəetməsi 171",
+    "section": "Həzi Aslanov filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2326,6 +2558,7 @@
     "email": "esedov.emin.95172@mock.capitalbank.local",
     "departmentId": "MGR-172",
     "departmentName": "Filial idarəetməsi 172",
+    "section": "Xəzər filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2336,6 +2569,7 @@
     "email": "esedov.ramil.95173@mock.capitalbank.local",
     "departmentId": "MGR-173",
     "departmentName": "Filial idarəetməsi 173",
+    "section": "Təbriz filialı",
     "active": true,
     "position": "Müdir"
   },
@@ -2346,6 +2580,7 @@
     "email": "esedov.vugar.95174@mock.capitalbank.local",
     "departmentId": "MGR-174",
     "departmentName": "Filial idarəetməsi 174",
+    "section": "50 saylı Notariat şöbəsi",
     "active": true,
     "position": "Müdir"
   }
