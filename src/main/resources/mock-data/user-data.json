@@ -86,5 +86,184 @@
     "section": "Təhlükəsizlik sistemləri şöbəsi",
     "active": true,
     "position": "Aparıcı mütəxəssis"
+  },
+  {
+    "userId": "10009",
+    "username": "aliyev.rashad.10009",
+    "fullName": "Aliyev Rəşad",
+    "email": "rashad.aliyev@gmail.com",
+    "departmentId": "MGR-101",
+    "departmentName": "Filial idarəetməsi 101",
+    "section": "Port Baku filialı",
+    "active": true,
+    "position": "Menecer"
+  },
+  {
+    "userId": "10010",
+    "username": "huseynova.nigar.10010",
+    "fullName": "Hüseynova Nigar",
+    "email": "nigar.huseynova@gmail.com",
+    "departmentId": "MGR-101",
+    "departmentName": "Filial idarəetməsi 101",
+    "section": "Port Baku filialı",
+    "active": true,
+    "position": "Baş mütəxəssis"
+  },
+  {
+    "userId": "10011",
+    "username": "mammadli.orxan.10011",
+    "fullName": "Məmmədli Orxan",
+    "email": "orxan.mammadli@gmail.com",
+    "departmentId": "MGR-101",
+    "departmentName": "Filial idarəetməsi 101",
+    "section": "Port Baku filialı",
+    "active": true,
+    "position": "Mütəxəssis"
+  },
+  {
+    "userId": "10012",
+    "username": "aliyeva.fidan.10012",
+    "fullName": "Əliyeva Fidan",
+    "email": "fidan.aliyeva@gmail.com",
+    "departmentId": "MGR-101",
+    "departmentName": "Filial idarəetməsi 101",
+    "section": "Port Baku filialı",
+    "active": true,
+    "position": "Aparıcı mütəxəssis"
+  },
+
+  {
+    "userId": "10013",
+    "username": "ismayilov.elvin.10013",
+    "fullName": "İsmayılov Elvin",
+    "email": "elvin.ismayilov@gmail.com",
+    "departmentId": "MGR-102",
+    "departmentName": "Filial idarəetməsi 102",
+    "section": "Nərimanov filialı",
+    "active": true,
+    "position": "Menecer"
+  },
+  {
+    "userId": "10014",
+    "username": "karimova.ayla.10014",
+    "fullName": "Kərimova Ayla",
+    "email": "ayla.karimova@gmail.com",
+    "departmentId": "MGR-102",
+    "departmentName": "Filial idarəetməsi 102",
+    "section": "Nərimanov filialı",
+    "active": true,
+    "position": "Baş mütəxəssis"
+  },
+  {
+    "userId": "10015",
+    "username": "safarov.tural.10015",
+    "fullName": "Səfərov Tural",
+    "email": "tural.safarov@gmail.com",
+    "departmentId": "MGR-102",
+    "departmentName": "Filial idarəetməsi 102",
+    "section": "Nərimanov filialı",
+    "active": true,
+    "position": "Mütəxəssis"
+  },
+  {
+    "userId": "10016",
+    "username": "valiyeva.sabina.10016",
+    "fullName": "Vəliyeva Səbinə",
+    "email": "sabina.valiyeva@gmail.com",
+    "departmentId": "MGR-102",
+    "departmentName": "Filial idarəetməsi 102",
+    "section": "Nərimanov filialı",
+    "active": true,
+    "position": "Aparıcı mütəxəssis"
+  },
+
+  {
+    "userId": "10017",
+    "username": "hasanov.elnur.10017",
+    "fullName": "Həsənov Elnur",
+    "email": "elnur.hasanov@gmail.com",
+    "departmentId": "MGR-103",
+    "departmentName": "Filial idarəetməsi 103",
+    "section": "Gənclik Mall filialı",
+    "active": true,
+    "position": "Menecer"
+  },
+  {
+    "userId": "10018",
+    "username": "abbasova.lala.10018",
+    "fullName": "Abbasova Lalə",
+    "email": "lala.abbasova@gmail.com",
+    "departmentId": "MGR-103",
+    "departmentName": "Filial idarəetməsi 103",
+    "section": "Gənclik Mall filialı",
+    "active": true,
+    "position": "Baş mütəxəssis"
+  },
+  {
+    "userId": "10019",
+    "username": "bayramov.kenan.10019",
+    "fullName": "Bayramov Kənan",
+    "email": "kenan.bayramov@gmail.com",
+    "departmentId": "MGR-103",
+    "departmentName": "Filial idarəetməsi 103",
+    "section": "Gənclik Mall filialı",
+    "active": true,
+    "position": "Mütəxəssis"
+  },
+  {
+    "userId": "10020",
+    "username": "qasimova.ulviyya.10020",
+    "fullName": "Qasımova Ülviyyə",
+    "email": "ulviyya.qasimova@gmail.com",
+    "departmentId": "MGR-103",
+    "departmentName": "Filial idarəetməsi 103",
+    "section": "Gənclik Mall filialı",
+    "active": true,
+    "position": "Aparıcı mütəxəssis"
+  },
+
+  {
+    "userId": "10021",
+    "username": "rahimov.nicat.10021",
+    "fullName": "Rəhimov Nicat",
+    "email": "nicat.rahimov@gmail.com",
+    "departmentId": "MGR-104",
+    "departmentName": "Filial idarəetməsi 104",
+    "section": "Xırdalan filialı",
+    "active": true,
+    "position": "Menecer"
+  },
+  {
+    "userId": "10022",
+    "username": "mammadova.aysel.10022",
+    "fullName": "Məmmədova Aysel",
+    "email": "aysel.mammadova@gmail.com",
+    "departmentId": "MGR-104",
+    "departmentName": "Filial idarəetməsi 104",
+    "section": "Xırdalan filialı",
+    "active": true,
+    "position": "Baş mütəxəssis"
+  },
+  {
+    "userId": "10023",
+    "username": "ibrahimli.farid.10023",
+    "fullName": "İbrahimli Fərid",
+    "email": "farid.ibrahimli@gmail.com",
+    "departmentId": "MGR-104",
+    "departmentName": "Filial idarəetməsi 104",
+    "section": "Xırdalan filialı",
+    "active": true,
+    "position": "Mütəxəssis"
+  },
+  {
+    "userId": "10024",
+    "username": "sadigova.narmin.10024",
+    "fullName": "Sadıqova Nərmin",
+    "email": "narmin.sadigova@gmail.com",
+    "departmentId": "MGR-104",
+    "departmentName": "Filial idarəetməsi 104",
+    "section": "Xırdalan filialı",
+    "active": true,
+    "position": "Aparıcı mütəxəssis"
   }
 ]
