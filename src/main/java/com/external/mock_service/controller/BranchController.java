@@ -31,8 +31,8 @@ public class BranchController {
 	}
 
 	@GetMapping("/by-manager/{userId}")
-	public List<BranchRecord> getByManager(@PathVariable String userId) {
-		return branchService.getByManagerUserId(userId);
+	public BranchRecord getByManagerUserId(@PathVariable String userId) {
+		return branchService.getByUserId(userId);
 	}
 
 	@GetMapping

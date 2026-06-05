@@ -19,6 +19,7 @@ public class BranchRepository {
 
 	private List<BranchRecord> branches;
 	private Map<String, BranchRecord> branchesById;
+	private Map<String, BranchRecord> branchesByManagerUserId;
 
 	public BranchRepository(JsonDataLoader jsonDataLoader, MockDataProperties mockDataProperties) {
 		this.jsonDataLoader = jsonDataLoader;
@@ -33,6 +34,9 @@ public class BranchRepository {
 				}
 		));
 		branchesById = branches.stream().collect(Collectors.toUnmodifiableMap(BranchRecord::branchId, Function.identity()));
+		branchesByManagerUserId = branches.stream().collect(
+				Collectors.toUnmodifiableMap(BranchRecord::managerUserId, Function.identity())
+		);
 	}
 
 	public List<BranchRecord> findAll() {
@@ -41,5 +45,9 @@ public class BranchRepository {
 
 	public Optional<BranchRecord> findById(String branchId) {
 		return Optional.ofNullable(branchesById.get(branchId));
+	}
+
+	public Optional<BranchRecord> findByManagerUserId(String managerUserId) {
+		return Optional.ofNullable(branchesByManagerUserId.get(managerUserId));
 	}
 }

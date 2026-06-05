@@ -21,16 +21,16 @@ class MockControllerIntegrationTest {
 
 	@Test
 	void shouldReturnUserById() throws Exception {
-		mockMvc.perform(get("/mock/users/13724"))
+		mockMvc.perform(get("/mock/users/13038"))
 				.andExpect(status().isOk())
-				.andExpect(jsonPath("$.userId", is("13724")))
+				.andExpect(jsonPath("$.userId", is("13038")))
 				.andExpect(jsonPath("$.departmentName", is("Operator departamenti")))
-				.andExpect(jsonPath("$.section", is("Fraud hallarının idarə edilməsi şöbəsi")));
+				.andExpect(jsonPath("$.section", is("Mühafizə-rejim və əməyin təhlükəsizliyi şöbəsi")));
 	}
 
 	@Test
 	void shouldReturnDepartmentByUserId() throws Exception {
-		mockMvc.perform(get("/mock/users/13724/department"))
+		mockMvc.perform(get("/mock/users/13038/department"))
 				.andExpect(status().isOk())
 				.andExpect(jsonPath("$.departmentId", is("OPS-001")))
 				.andExpect(jsonPath("$.departmentName", is("Operator departamenti")));
@@ -38,34 +38,40 @@ class MockControllerIntegrationTest {
 
 	@Test
 	void shouldFilterActiveUsers() throws Exception {
-		mockMvc.perform(get("/mock/users").param("active", "false"))
+		mockMvc.perform(get("/mock/users").param("active", "true"))
 				.andExpect(status().isOk())
-				.andExpect(jsonPath("$", hasSize(1)))
-				.andExpect(jsonPath("$[0].userId", is("12659")));
+				.andExpect(jsonPath("$", hasSize(24)))
+				.andExpect(jsonPath("$[0].userId", is("10001")));
 	}
 
 	@Test
 	void shouldReturnBranchById() throws Exception {
-		mockMvc.perform(get("/mock/branches/BR-001"))
+		mockMvc.perform(get("/mock/branches/BR-101"))
 				.andExpect(status().isOk())
-				.andExpect(jsonPath("$.branchId", is("BR-001")))
-				.andExpect(jsonPath("$.managerUserId", is("11637")));
+				.andExpect(jsonPath("$.branchId", is("BR-101")))
+				.andExpect(jsonPath("$.managerUserId", is("10002")));
 	}
 
 	@Test
 	void shouldReturnBranchManager() throws Exception {
-		mockMvc.perform(get("/mock/branches/BR-001/manager"))
+		mockMvc.perform(get("/mock/branches/BR-101/manager"))
 				.andExpect(status().isOk())
-				.andExpect(jsonPath("$.branchId", is("BR-001")))
-				.andExpect(jsonPath("$.manager.userId", is("11637")))
-				.andExpect(jsonPath("$.manager.section", is("Təhlükəsizlik sistemləri şöbəsi")));
+				.andExpect(jsonPath("$.branchId", is("BR-101")))
+				.andExpect(jsonPath("$.manager.userId", is("10002")))
+				.andExpect(jsonPath("$.manager.section", is("Port Baku filialı")));
 	}
 
 	@Test
 	void shouldReturnBranchesByManager() throws Exception {
-		mockMvc.perform(get("/mock/branches/by-manager/11637"))
+		mockMvc.perform(get("/mock/branches/by-manager/10002"))
 				.andExpect(status().isOk())
-				.andExpect(jsonPath("$", hasSize(1)))
-				.andExpect(jsonPath("$[0].branchId", is("BR-001")));
+				.andExpect(jsonPath("$.branchId", is("BR-101")))
+				.andExpect(jsonPath("$.branchName", is("Port Baku filialı")));
+	}
+
+	@Test
+	void shouldReturnNotFoundForRegularUserId() throws Exception {
+		mockMvc.perform(get("/mock/branches/by-manager/10010"))
+				.andExpect(status().isNotFound());
 	}
 }

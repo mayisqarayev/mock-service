@@ -31,10 +31,9 @@ public class BranchService {
 		);
 	}
 
-	public List<BranchRecord> getByManagerUserId(String userId) {
-		return branchRepository.findAll().stream()
-				.filter(branch -> branch.managerUserId().equals(userId))
-				.toList();
+	public BranchRecord getByUserId(String userId) {
+		return branchRepository.findByManagerUserId(userId)
+				.orElseThrow(() -> new ResourceNotFoundException("Branch not found for user: " + userId));
 	}
 
 	public List<BranchRecord> getBranches(Boolean active) {
