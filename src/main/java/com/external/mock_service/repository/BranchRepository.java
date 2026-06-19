@@ -6,6 +6,7 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import jakarta.annotation.PostConstruct;
 import java.util.List;
 import java.util.Map;
+import java.util.Objects;
 import java.util.Optional;
 import java.util.function.Function;
 import java.util.stream.Collectors;
@@ -34,9 +35,9 @@ public class BranchRepository {
 				}
 		));
 		branchesById = branches.stream().collect(Collectors.toUnmodifiableMap(BranchRecord::branchId, Function.identity()));
-		branchesByManagerUserId = branches.stream().collect(
-				Collectors.toUnmodifiableMap(BranchRecord::managerUserId, Function.identity())
-		);
+		branchesByManagerUserId = branches.stream()
+				.filter(branch -> Objects.nonNull(branch.managerUserId()))
+				.collect(Collectors.toUnmodifiableMap(BranchRecord::managerUserId, Function.identity()));
 	}
 
 	public List<BranchRecord> findAll() {

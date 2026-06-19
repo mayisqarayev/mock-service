@@ -31,11 +31,8 @@ public class UserService {
 		return new DepartmentResponse(user.userId(), user.departmentId(), user.departmentName());
 	}
 
-	public List<UserRecord> getUsers(Boolean active) {
-		if (active == null) {
-			return userRepository.findAll();
-		}
-		return userRepository.findAll().stream()
+	public List<UserRecord> getUsers(Boolean active, String branchId) {
+		return userRepository.findByBranchId(branchId).stream()
 				.filter(user -> user.active() == active)
 				.toList();
 	}

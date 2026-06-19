@@ -45,6 +45,15 @@ class MockControllerIntegrationTest {
 	}
 
 	@Test
+	void shouldFilterUsersByBranchId() throws Exception {
+		mockMvc.perform(get("/mock/users").param("branchId", "BR-101"))
+				.andExpect(status().isOk())
+				.andExpect(jsonPath("$", hasSize(5)))
+				.andExpect(jsonPath("$[0].userId", is("10002")))
+				.andExpect(jsonPath("$[4].userId", is("10012")));
+	}
+
+	@Test
 	void shouldReturnBranchById() throws Exception {
 		mockMvc.perform(get("/mock/branches/BR-101"))
 				.andExpect(status().isOk())
@@ -58,7 +67,7 @@ class MockControllerIntegrationTest {
 				.andExpect(status().isOk())
 				.andExpect(jsonPath("$.branchId", is("BR-101")))
 				.andExpect(jsonPath("$.manager.userId", is("10002")))
-				.andExpect(jsonPath("$.manager.section", is("Port Baku filialı")));
+				.andExpect(jsonPath("$.manager.section", is("#####")));
 	}
 
 	@Test

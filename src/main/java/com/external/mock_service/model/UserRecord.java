@@ -8,6 +8,7 @@ public record UserRecord(
 		String departmentId,
 		String departmentName,
 		String section,
+		String branchId,
 		boolean active,
 		String position
 ) {

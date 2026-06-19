@@ -26,5 +26,12 @@
     "managerUserId": "10007",
     "active": true,
     "region": "Xırdalan şəhəri"
+  },
+  {
+    "branchId": "BR-HO",
+    "branchName": "Head Office",
+    "managerUserId": null,
+    "active": true,
+    "region": "Bakı şəhəri"
   }
 ]

@@ -20,6 +20,7 @@ public class UserRepository {
 	private List<UserRecord> users;
 	private Map<String, UserRecord> usersById;
 	private Map<String, UserRecord> usersByUsername;
+	private Map<String, List<UserRecord>> usersByBranchId;
 
 	public UserRepository(JsonDataLoader jsonDataLoader, MockDataProperties mockDataProperties) {
 		this.jsonDataLoader = jsonDataLoader;
@@ -37,6 +38,12 @@ public class UserRepository {
 		usersByUsername = users.stream().collect(
 				Collectors.toUnmodifiableMap(user -> user.username().toLowerCase(), Function.identity())
 		);
+		usersByBranchId = users.stream().collect(
+				Collectors.groupingBy(
+						UserRecord::branchId,
+						Collectors.collectingAndThen(Collectors.toList(), List::copyOf)
+				)
+		);
 	}
 
 	public List<UserRecord> findAll() {
@@ -49,5 +56,9 @@ public class UserRepository {
 
 	public Optional<UserRecord> findByUsername(String username) {
 		return Optional.ofNullable(usersByUsername.get(username.toLowerCase()));
+	}
+
+	public List<UserRecord> findByBranchId(String branchId) {
+		return usersByBranchId.getOrDefault(branchId, List.of());
 	}
 }

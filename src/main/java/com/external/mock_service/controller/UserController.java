@@ -36,7 +36,10 @@ public class UserController {
 	}
 
 	@GetMapping
-	public List<UserRecord> getUsers(@RequestParam(required = false) Boolean active) {
-		return userService.getUsers(active);
+	public List<UserRecord> getUsers(
+			@RequestParam(required = false) Boolean active,
+			@RequestParam(required = false) String branchId
+	) {
+		return userService.getUsers(active, branchId);
 	}
 }
