@@ -42,4 +42,9 @@ public class UserController {
 	) {
 		return userService.getUsers(active, branchId);
 	}
+
+	@GetMapping("/all")
+	public List<UserRecord> getUsers() {
+		return userService.getUsers();
+	}
 }

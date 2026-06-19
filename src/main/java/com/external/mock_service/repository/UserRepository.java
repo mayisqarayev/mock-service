@@ -59,6 +59,7 @@ public class UserRepository {
 	}
 
 	public List<UserRecord> findByBranchId(String branchId) {
-		return usersByBranchId.getOrDefault(branchId, users);
+		return users.stream().filter(userRecord -> userRecord.branchId().equals(branchId))
+				.collect(Collectors.toList());
 	}
 }

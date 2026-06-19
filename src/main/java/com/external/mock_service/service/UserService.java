@@ -36,4 +36,8 @@ public class UserService {
 				.filter(user -> user.active() == active)
 				.toList();
 	}
+
+	public List<UserRecord> getUsers() {
+		return  userRepository.findAll();
+	}
 }
